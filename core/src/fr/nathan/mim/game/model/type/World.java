@@ -173,9 +173,9 @@ public class World implements Configurable {
         height = 13f;
 
         playerConfiguration = new PlayerConfiguration(
-                1,
+                2,
                 .5f,
-                new Vector2(width / 2, .15f));
+                new Vector2(width / 2 - .5f, .15f));
 
         letterConfiguration = new LetterConfiguration(1.5f);
         wordsConfiguration  = new WordsConfiguration(new ArrayList<String>(Arrays.asList("MIM", "A", "B")));

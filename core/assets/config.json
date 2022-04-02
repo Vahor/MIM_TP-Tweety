@@ -6,25 +6,25 @@
 "roads": [
 	{
 		"direction": "LEFT",
-		"moveSpeed": 1.2673807,
+		"moveSpeed": 1.190485,
 		"offsetY": 10.1
 	},
 	{
 		"direction": "RIGHT",
-		"moveSpeed": 1.1313871,
+		"moveSpeed": 1.436212,
 		"offsetY": 11.1
 	},
 	{
 		"direction": "LEFT",
-		"moveSpeed": 0.9637286,
+		"moveSpeed": 1.4397328,
 		"offsetY": 12.1
 	}
 ],
 "playerConfiguration": {
-	"moveSpeed": 1,
+	"moveSpeed": 2,
 	"moveDuration": 0.5,
 	"startingPosition": {
-		"x": 4.5,
+		"x": 4,
 		"y": 0.15
 	}
 },
