@@ -1,0 +1,45 @@
+{
+"seed": 0,
+"debug": true,
+"width": 9,
+"height": 13,
+"roads": [
+	{
+		"direction": "LEFT",
+		"moveSpeed": 1.2673807,
+		"offsetY": 10.1
+	},
+	{
+		"direction": "RIGHT",
+		"moveSpeed": 1.1313871,
+		"offsetY": 11.1
+	},
+	{
+		"direction": "LEFT",
+		"moveSpeed": 0.9637286,
+		"offsetY": 12.1
+	}
+],
+"playerConfiguration": {
+	"moveSpeed": 1,
+	"moveDuration": 0.5,
+	"startingPosition": {
+		"x": 4.5,
+		"y": 0.15
+	}
+},
+"letterConfiguration": {
+	"downSpeed": 1.5
+},
+"wordsConfiguration": {
+	"words": [
+		"MIM",
+		"A",
+		"B"
+	]
+},
+"lombricConfiguration": {
+	"spawnInterval": 3,
+	"downSpeed": 1.5
+}
+}
